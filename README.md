@@ -4,7 +4,7 @@
 
 # Android Course Project
 
-TSHABU NGANDU BERNARD
+CANSA KAYEMBE AMAURY
 L3 Informatique
 
 ## Description
